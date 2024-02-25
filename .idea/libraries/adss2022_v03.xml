@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="adss2022_v03">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/adss2022_v03.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
